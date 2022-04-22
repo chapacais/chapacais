@@ -24,7 +24,7 @@ I'm a Front-End developer and Computer Engineering student :)
 <br>
 <br>
 
-- 👀 I LOVE developing projects about things I'm passionate about with the technologies I learn and LOVE making music as well!
+- 👀 I LOVE developing projects about things I'm passionate about with the technologies I learn, and LOVE making music as well!
 - 🌱 I’m currently learning React and TypeScript.
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
