@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Hello 👋
 
-I'm a Front-End developer (aiming to become a Full Stack) and Computer Engineering student :)
+I'm a Front-End developer and Computer Engineering student :)
 
 <a href="https://www.linkedin.com/in/pedro-chapacais/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
