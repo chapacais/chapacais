@@ -24,7 +24,7 @@ I'm a Front-End developer and Computer Engineering student :)
 <br>
 <br>
 
-- 👀 I love developing projects about things I'm passionate about with the technologies I learn, and I love making music as well!
+- 👀 I really like developing projects about things I'm passionate about, using the technologies I'm currently learning and that I'm proficient with.
 - 🌱 I’m currently learning some low-level programming stuff, outside of my web development comfort zone.
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
